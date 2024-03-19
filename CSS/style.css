@@ -1,0 +1,77 @@
+#myBox
+{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
+.allFonts
+{
+    color:burlywood;
+    font-size: 40px;
+    font-family: fantasy;
+}
+body
+{
+    background-color:gray;
+}
+.dot
+{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+}
+.rectangle {
+    height: 20px;
+    width: 100px;
+    background-color: orangered;
+}
+.dot2
+{
+    position: absolute;
+    top: 38%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+}
+.rectangle2 {
+    height: 20px;
+    width: 100px;
+    background-color: orangered;
+
+    position: absolute;
+    top: 41%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+
+}
+.dot3
+{
+    position: absolute;
+    top: 38%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+}
+.rectangle3 {
+    height: 20px;
+    width: 100px;
+    background-color: orangered;
+
+    position: absolute;
+    top: 41%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+
+}
